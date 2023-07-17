@@ -1,7 +1,9 @@
 <h1 align="center">Привет, меня зовут <a href="https://github.com/Anastasia7Si" target="_blank">Анастасия</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Студентка ЯП курса  🇷🇺</h3>
-<h3 align="center">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</h3>
+<h3 align="center">
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</h3>
 
 Hedgehogbot - это маленький телеграм-бот, который пока что умеет:
 1. Приветствовать по имени.
