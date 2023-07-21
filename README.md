@@ -11,4 +11,11 @@ Hedgehogbot - это маленький телеграм-бот, который 
 
 В будущем он научится рассказывать про погоду, травить шутки и, кто знает, может, предсказывать будущее.
 
+### Запуск проекта
+Клонировать репозиторий и перейти в него в командной строке:
+```
+git clone [https://github.com/Anastasia7Si/kittygram_final](https://github.com/Anastasia7Si/client_api)
+cd  client_api
+```
+
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
