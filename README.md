@@ -17,5 +17,8 @@ Hedgehogbot - это маленький телеграм-бот, который 
 git clone [https://github.com/Anastasia7Si/kittygram_final](https://github.com/Anastasia7Si/client_api)
 cd  client_api
 ```
+```
+Запустить на локальном компьютере
+``` 
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
